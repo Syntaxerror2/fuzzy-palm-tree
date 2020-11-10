@@ -1,0 +1,57 @@
+#wrapper {
+  font-family: calibri;
+}
+#title {
+  text-align: center;
+  font-size: 40px;
+}
+#pof {
+  font-size: 20px;
+}
+#img-div {
+ text-align: center; 
+}
+div {
+  text-align: center;
+}
+#image {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#img-caption {vertical-align: baseline;
+font-size: 18px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  height: auto;
+}
+h2 {
+text-align: center;
+font-weight: bold;
+}
+#tribute-info {list-style-type: disc; font-size: 20px; text-align: justify;}
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+  width: 630px;}
+#end {
+  font-style: italic;
+  font-size: 20px;
+  text-align: justify;
+  margin-left: auto;
+    margin-right: auto;
+}
+#ending {
+  font-style: italic;
+  font-size: 20px;
+}
+#tribute-link {
+  font-size: 20px;
+  font-weight: bold;
+}
